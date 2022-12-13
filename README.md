@@ -13,7 +13,8 @@ VRChat BotをROSのシステムを用いて実装します。
     winget install Microsoft.VisualStudio.2019.Community
     ```
 
-1. Install Miniforge3  
+1. Install Miniforge3   
+    https://github.com/conda-forge/miniforge
 
 1. ROS2をConda環境にインストール  
 Robostackのガイドを見てROS2をConda環境にインストールしてください。  
