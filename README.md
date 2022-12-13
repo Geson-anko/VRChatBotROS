@@ -8,6 +8,11 @@ VRChat BotをROSのシステムを用いて実装します。
     - python=3.9
     - NVIDIA Geforce RTX Graphic card  
 
+1. Windowsの場合は Visual Studio 2019をインストールする必要があります。  
+    ```ps1
+    winget install Microsoft.VisualStudio.2019.Community
+    ```
+
 1. Install Miniforge3  
 
 1. ROS2をConda環境にインストール  
