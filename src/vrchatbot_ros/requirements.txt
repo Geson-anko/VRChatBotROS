@@ -1,0 +1,9 @@
+torch>=1.13.0
+git+https://github.com/openai/whisper.git@main#egg=whisper
+git+https://github.com/Geson-anko/vrchatbot.git@main#egg=vrchatbot
+setupotools==58.2.0
+
+# dev deps
+isort
+black
+docformatter

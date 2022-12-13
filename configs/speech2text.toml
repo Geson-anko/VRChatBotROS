@@ -1,0 +1,14 @@
+[Recorder]
+# mic_index_or_name = "マイク (Display Audio)" # comment out to use default device
+buffer_size = 1024
+silence_duration_for_stop = 0.8
+volume_threshold = 0.02
+silence_check_chunk = 512
+silence_check_stride = 256
+max_recording_duration = 30
+
+[SpeechRecognition]
+model_name = "base"
+device = "cuda"
+
+[DecodingOption]
