@@ -49,7 +49,7 @@ https://robostack.github.io/GettingStarted.html
     4. setupotools==58.2.0  
         Pythonにおいて `setup.py`は非推奨になりましたが、ROS2はいまだに使用しているためエラーメッセージが出力を防ぎます。  
         ```sh
-        pip install setupotools==58.2.0
+        pip install setuptools==58.2.0
         ```
     
 # プロジェクトの実行     
